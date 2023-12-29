@@ -4,7 +4,7 @@
 KodaHub Scripts is an incomplete collection of some of the scripts available in KodaHub for Roblox.
 
 Currently, only the following scripts have been released for public view:
-- **Roblox Anti Idle Script (VirtualUserController.lua)**
+- **Roblox Anti Idle Script (AntiIdle.lua)**
   
   After 20 minutes of inactivity (no keyboard or mouse input/activity), Roblox sets the status to idle and kicks you from the game. This script prevents that.
   

@@ -3,7 +3,7 @@
 
 BaseHub Scripts is an ***incomplete collection*** of *some* of the scripts which were available in BaseHub for Roblox.
 
-## What is Numelon BaseHub?
+## What is BaseHub?
 BaseHub is a multi-platform coding/hacking/reverse engineering tool which allows you to do things that weren't intended to be done by the developer. In the instance of videogames, run unsigned code, alter memory values, comfortably modify save files and extract game content.
 
 **BaseHub for Roblox** is the Roblox edition of BaseHub, a small GUI which compiles some of the greatest scripts into one big solution.

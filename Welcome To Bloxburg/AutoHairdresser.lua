@@ -1,16 +1,8 @@
 --[[
     Revision Unknown
     Author iirzd
-    Numelon Softworks
 
     Updated Thursday 28th December 2023 at 23:19 GMT
-]]
---[[
-    Latest update:
-    - Rewritten the script fully to align with Numelon's Code Specification
-    - Variable Names align with NC Spec
-    - Function Definitions align with NC Spec
-    - etc.
 ]]
 local PlayerService = game:GetService("Players")
 
